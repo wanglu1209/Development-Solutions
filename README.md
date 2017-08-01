@@ -6,7 +6,7 @@ code_efficient：代码效率、速度相关
 
 data_storage：数据存储
 
-hard_ware：硬件相关，传感器，相机等
+hardware：硬件相关，传感器，相机等
 
 io：输入输出流
 
